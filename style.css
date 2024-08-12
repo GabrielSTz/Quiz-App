@@ -132,6 +132,10 @@ input::placeholder {
     border: none;
 }
 
+#finalScore {
+    text-align: center;
+}
+
 .fa-home {
     margin-left: 1rem;
     font-size: 2rem;
