@@ -136,6 +136,23 @@ input::placeholder {
     text-align: center;
 }
 
+.admin {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    background-color: rgba(29, 26, 26, 0.5);
+    color: rgb(50, 45, 45);
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.admin:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0  0.1rem 0.3rem 0.4rem rgb(238, 5, 5);
+}
+
 .fa-home {
     margin-left: 1rem;
     font-size: 2rem;
